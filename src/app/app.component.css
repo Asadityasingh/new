@@ -1,0 +1,24 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+.carousel{
+    height: 250px;
+}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+.dropbtn{
+    background-color: rgb(58, 53, 46);
+}
+
+
+.bar{
+  background-color: rgb(00, 00, 0.4);
+}
+.avt{
+         border: 1px solid black;
+    border-radius: 50px;
+}
